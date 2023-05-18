@@ -58,7 +58,7 @@ cd GSAP-Gallery
 Once on the project website, you can scroll through the gallery using your mouse or trackpad. The smooth scrolling effect and creative transitions will enhance your browsing experience. The gallery is optimized for desktop and laptop devices, providing a visually pleasing way to explore the images.
 ## Deployment
 
-This project is deployed to Netlify, experience now. [Click](https://rrr-gsapscroll.netlify.app/)
+This project is deployed to Netlify, experience now. [Click](https://dubai-gsap-gallery.netlify.app/)
 
 ## Customization
 
