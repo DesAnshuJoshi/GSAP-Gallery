@@ -50,7 +50,7 @@ cd GSAP-Gallery
 3. Open the index.html file in a web browser to view the project.
 ## Screenshots
 
-![Web Screenshot](img/screen.jpg)
+![preview](https://github.com/DesAnshuJoshi/GSAP-Gallery/assets/126374769/8808efd3-a61f-453d-a082-8d2b8fa9a7da)
 
 
 ## Usage
